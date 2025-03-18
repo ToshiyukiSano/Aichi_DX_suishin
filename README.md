@@ -1,5 +1,7 @@
 # Aichi_DX_suishin
 
+Manusによる調査結果
+
 [愛知県内中小企業のDX推進状況調査と対策提案](./aichi_dx_report.md)
 
 [愛知県内中小企業のDX推進状況](./aichi_dx_status.md)
