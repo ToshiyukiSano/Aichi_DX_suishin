@@ -2,6 +2,8 @@
 
 Manusによる調査結果
 
+[愛知県中小企業DX推進のための人材活用実施計画](./dx_implementation_plan.md)
+
 [中小企業のDX推進における人材獲得戦略](./dx_talent_acquisition_strategies.md)
 
 [愛知県内中小企業のDX推進状況調査と対策提案](./aichi_dx_report.md)
